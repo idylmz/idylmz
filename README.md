@@ -20,8 +20,10 @@ I graduated from university with a Bachelor's on Computer Engineering in 2021 Ju
 - **DevOps:** GitLab CI/CD, Azure
 - **Monitoring:** DynaTrace, AppResponse, Aeternity
 - **Caching:** Redis, MemCache
-- **OpenSource Knowledge:** ElasticSearch, Zipkin, OpenTelemetry, Prometheus
+- **Logging:** ElasticSearch, Kibana, Zipkin, OpenTelemetry, Prometheus
 - **Debugging:** Visual Studio, DebugDiag, WinDbg
+- **Reverse-Forward Proxy:** IIS, NGinx, Squid
+- **Cloud:** VM, VLAN
 
 ## 🔭 Current Projects
 
