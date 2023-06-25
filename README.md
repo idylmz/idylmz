@@ -26,23 +26,23 @@ I graduated from university with a Bachelor's on Computer Engineering in 2021 Ju
 ## 🔭 Current Projects
 
 - [Trace360](https://trace360.finance): A project that people can track their incomes and expenses. Plus, they can see detailed reports to make sure they don't run out of money in the future.
-- [Voimoji]: Voimoji lets people edit the audio part of YouTube videos and share them across their friends. It is kinda like auditional emoji. The project is not live now.
+- Voimoji: Voimoji lets people edit the audio part of YouTube videos and share them across their friends. It is kinda like auditional emoji. The project is not live now.
 
 ## 🌱 I'm Currently Learning
 
 I believe in lifelong learning, and here are some of the topics I'm currently focusing on:
 
-- [1]: OpenShift World
-- [2]: Production Level Debugging
+- 1: OpenShift World
+- 2: Production Level Debugging
 
 ## 💬 Ask Me About
 
 If you have any questions or need help with the following topics, feel free to reach out:
 
-- [1]: Software Development
-- [2]: Virtual Machines
-- [3]: Cloud
-- [4]: Anything. If I don't know it yet, we can both learn something new.
+- 1: Software Development
+- 2: Virtual Machines
+- 3: Cloud
+- 4: Anything. If I don't know it yet, we can both learn something new.
 
 ## 📫 How to Reach Me
 
